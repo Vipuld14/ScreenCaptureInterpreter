@@ -1,0 +1,8 @@
+# Processing brain — delegates understanding/response generation to Claude
+claude-agent-sdk
+
+# Still used by the current hello_claude.py connectivity test
+anthropic
+
+# Env loading for API-key auth
+python-dotenv
