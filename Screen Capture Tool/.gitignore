@@ -20,3 +20,6 @@ __pycache__/
 captures/
 *.png
 *.jpg
+
+# Cowork / Claude cache
+.claude/

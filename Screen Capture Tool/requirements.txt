@@ -1,0 +1,9 @@
+# Processing brain — the Anthropic API is called directly via this SDK.
+anthropic
+
+# Loads ANTHROPIC_API_KEY from .env for the API-key auth route.
+python-dotenv
+
+# Screen capture (Milestone 2+)
+mss
+Pillow
